@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # ⚡ Community VS
@@ -146,4 +145,3 @@ Made with ☕ + ❤️ + Visual Studio Code.
 ⭐ **Don't forget to Star the repository!**
 
 </div>
-````
