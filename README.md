@@ -127,15 +127,11 @@ If you like this project...
 
 # 📊 GitHub Stats
 
-Replace **discord-nukes** with your GitHub username if you fork this project.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=discord-nukes&show_icons=true&theme=tokyonight)
 
-```md
-![Stats](https://github-readme-stats.vercel.app/api?username=discord-nukes&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=discord-nukes&layout=compact&theme=tokyonight)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=discord-nukes&layout=compact&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=discord-nukes&theme=tokyonight)
-```
+![GitHub Streak](https://streak-stats.demolab.com?user=discord-nukes&theme=tokyonight)
 
 ---
 
